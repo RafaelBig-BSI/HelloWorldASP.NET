@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 namespace ProjetoTesteWeb
 {
     //Linha 1
+    //Linha 2
     public class Startup
     {
         public Startup(IConfiguration configuration)
